@@ -1,0 +1,12 @@
+{
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.launchArgs": [],
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
